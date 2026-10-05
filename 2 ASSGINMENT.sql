@@ -1,4 +1,4 @@
-CREATE DATABASE sql_mock;
+                CREATE DATABASE sql_mock;
 USE sql_mock;
 
 CREATE TABLE Department (
